@@ -1,0 +1,507 @@
+.indexProductsBor {
+    left: 40%;
+    transform: translateX(-50%);
+    bottom: -0.13rem;
+}
+
+.indexProductsBor .top {
+    height: 1.9rem;
+}
+
+.indexProductsBor .left {
+    width: 7.53rem;
+}
+
+.indexProductsBor .right {
+    width: 11.25rem;
+}
+
+.indeTwoBor{
+    left: 44.3%;
+    transform: translateX(-50%);
+    bottom: -0.03rem;
+
+}
+
+.indeTwoBor .bottom {
+    height: 2.84rem;
+}
+
+.indeTwoBor .left {
+    width: 8.35rem;
+}
+
+.indeTwoBor .right {
+    width:7.4rem;
+}
+
+.indeBor3{
+    right: 14%;
+    transform: translateX(-50%);
+    bottom: -0.03rem;
+}
+
+.indeBor3 .top {
+    height: 2.8rem;
+}
+
+.indeBor3 .right {
+    width: 2.8rem;
+}
+.indeBor4{
+    left: 9.3%;
+    transform: translateX(-50%);
+    bottom: -0.03rem;
+
+}
+
+.indeBor4 .bottom {
+    height: 2.87rem;
+}
+
+.indeBor4 .left {
+    width: 1.65rem;
+}
+
+.indeBor4 .right {
+    width: 6.38rem;
+}
+
+.indeBor5{
+    left: 56.2%;
+    transform: translateX(-50%);
+    bottom: -0.03rem;
+
+}
+
+.indeBor5 .bottom {
+    height: 2.87rem;
+}
+
+.indeBor5 .left {
+    width: 1.95rem;
+}
+
+.indeBor5 .right {
+    width: 8.17rem;
+}
+
+.indeBor6{
+    left: 9.3%;
+    transform: translateX(-50%);
+    bottom: -0.03rem;
+
+}
+
+.indeBor6 .left {
+    width: 1.52rem;
+}
+
+.indeBor6 .right {
+    width: 8.65rem;
+}
+
+.indeBor7{
+    left: 56.2%;
+    transform: translateX(-50%);
+    bottom: -0.03rem;
+
+}
+
+.indeBor7 .right {
+    width: 8.17rem;
+}
+
+.indeBor8{
+    left: 40%;
+    transform: translateX(-50%);
+    top: 3.12rem;
+
+}
+
+.indeBor8 .top {
+    height: 2.93rem;
+}
+
+.indeBor8 .left {
+    width: 7.53rem;
+}
+
+.indeBor8 .right {
+    width:11.26rem;
+}
+
+.indeBor9{
+}
+.fiveItem .indeBor9 .right{
+    display: none !important;
+}
+.indeBor9 .top {
+ display: none;
+}
+.indeBor9 .bottom {
+
+}
+
+.indeBor9 .left {
+    display: none;
+}
+
+.indeBor9 .right {
+
+}
+
+.indeBor10{
+    left: 100%;
+    transform: translateX(-50%);
+    bottom: -0.17rem;
+
+}
+
+.indeBor10 .top {
+    height: 2.88rem;
+}
+.indeBor10 .bottom {
+    height: 2.88rem;
+}
+
+.indeBor10 .left {
+    width: 3.5rem;
+}
+
+.indeBor10 .right {
+    width:3.54rem;
+}
+
+.indeBor11{
+    left: 100%;
+    transform: translateX(-50%);
+    bottom: -0.17rem;
+
+}
+
+.indeBor11 .top {
+    height: 2.88rem;
+}
+.indeBor11 .bottom {
+    height: 2.88rem;
+}
+
+.indeBor11 .left {
+    width: 3.5rem;
+}
+
+.indeBor11 .right {
+    width:3.54rem;
+}
+
+.indeBor12{
+    left: 100%;
+    transform: translateX(-50%);
+    bottom: -0.17rem;
+
+}
+
+.indeBor12 .top {
+    height: 2.88rem;
+}
+.indeBor12 .bottom {
+    height: 2.88rem;
+}
+
+.indeBor12 .left {
+    width: 3.5rem;
+}
+
+.indeBor12 .right {
+    width:3.54rem;
+}
+
+.indeBor13{
+    left: 100%;
+    transform: translateX(-50%);
+    bottom: -0.17rem;
+
+}
+
+.indeBor13 .left {
+    width: 3.5rem;
+}
+
+.indeBor13 .right {
+    width:3.54rem;
+}
+
+.indeBor14{
+    left: 100%;
+    transform: translateX(-50%);
+    bottom: -0.17rem;
+
+}
+
+.indeBor14 .left {
+    width: 3.5rem;
+}
+
+.indeBor14 .right {
+    width:3.54rem;
+}
+
+.indeBor15{
+    left: -0.2rem;
+    transform: translateX(-50%);
+    bottom: -0.17rem;
+}
+
+.indeBor15 .right {
+    width:3.54rem;
+}
+
+.defaBor1{
+    left: 7.25rem;
+    bottom: -0.15rem;
+    animation: none !important;
+  }
+  
+.defaBor1 .left{
+    width: 10.25rem;
+
+  }
+
+.defaBor1 .top{
+    height: 2.85rem ;
+
+}
+
+.defaBor1 .right{
+    width: 12.47rem ;
+
+}
+
+.defaBor11{
+    left: 7.25rem;
+    bottom: -0.15rem;
+    animation: none !important;
+}
+
+.defaBor11 .left{
+    width: 10.25rem;
+
+}
+
+.defaBor11 .top{
+    height: 1.9rem ;
+
+}
+
+.defaBor11 .right{
+    width: 12.47rem ;
+
+}
+
+.defaBor111{
+    left: 7.25rem;
+    bottom: -0.15rem;
+    animation: none !important;
+}
+
+.defaBor111 .left{
+    width: 10.25rem;
+
+}
+
+.defaBor111 .top{
+    height: 1.8rem ;
+
+}
+
+.defaBor111 .right{
+    width: 12.47rem ;
+
+}
+.defaBor2{
+    right: 0;
+    bottom: 0;
+
+}
+.defaBor2 .right{
+    height: 100%;
+
+}
+.defaBor2 .left{
+    display: none;
+}
+.defaBor2 .top{
+    display: none;
+}
+.defaBor2 .bottom{
+    width: 100%;
+
+}
+/*.lastBoxBor{*/
+/*    !*z-index: -1;*!*/
+/*}*/
+/*.lastBoxBor .right{*/
+/*    height: 38%;*/
+/*    bottom: 0;*/
+
+/*}*/
+.active:first-child {
+    width: 120% !important;
+}
+.lastBoxBor .left{
+   display: none;
+}
+.lastBoxBor .top{
+    display: none;
+}
+.lastBoxBor .bottom{
+    display: none;
+}
+.defaBor3 .right{
+    height: 70%;
+    top: 50%;
+transform: translateY(-50%);
+}
+.defaBor3 .bottom{
+    width: 100%;
+
+}
+
+.bire1{
+    position: absolute;
+    top: 0.15rem;
+    left: 0;
+
+}
+.bire1 .left{
+    height: 100%;
+}
+
+.intro1{
+
+    left: 7.62rem;
+    top: -0.15rem;
+
+}
+
+.intro1 .left{
+    width: 7.45rem;
+}
+
+.intro1 .right{
+    width: 4.89rem;
+}
+
+
+
+.seinBor1 {
+
+    bottom: -0.15rem;
+    left: 1.85rem;
+}
+
+.seinBor1 .top{
+    height: 0.15rem;
+}
+.seinBor1 .bottom{
+    height: 0.15rem;
+}
+.seinBor1 .left{
+    width: 1.85rem;
+}
+.seinBor1 .right{
+    width: 8.25rem;
+}
+
+.oneBor1 .right{
+    display: none;
+}
+.oneBor1 .bottom{
+    display: none;
+}
+.int3 .top,.int3 .bottom,.int3 .right{
+    display: none;
+}
+.paperOne .top{
+    height: 6.5rem;
+}
+.paperOne .right{
+    width: 12.65rem;
+}
+.paperOne .bottom{
+    height: 11.6rem;
+}
+.DustBor1 .right,.DustBor1 .top{
+    display: none;
+}
+
+.DustBor2 .right,.DustBor2 .top,.DustBor2 .bottom{
+    display: none !important;
+}
+.DustBor22 .left{
+    height: calc(100% - 0.15rem) !important;
+    bottom: 0 !important;
+}
+.DustBor1 .left{
+    height: calc(100% - 0.15rem) !important;
+}
+.oneBor2 .right {
+    display: none;
+}
+.DustBor3 .right,.DustBor3 .top{
+    display: none;
+}
+.appBor1{
+    left: 49.3% !important;
+    bottom: -0.15rem;
+}
+.appBor1 .top{
+    height: 1.9rem;
+}
+.appBor1 .left{
+    width: 9.45rem;
+}
+.appBor1 .right{
+    width: 9.45rem
+
+}
+.indexBorZhe{
+left: 45.5%;
+    top: 1.82rem;
+}
+.indexBorZhe .left{
+    width: 8.08rem;
+}
+.indexBorZhe .right{
+    width: 9.42rem;
+}
+.indexBorZhe .bottom{
+    height: 6.4rem;
+}
+@media (max-width: 1024px) {
+    /*About页面*/
+    .bot{
+        justify-content: center !important;
+    }
+    .bot .left{
+        width: 80% !important;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
+    .bot .left p{
+        font-size: 0.4rem !important;
+        line-height: 0.8rem !important;
+    }
+    .paperOne{
+      display: none;
+    }
+
+    /*About页面*/
+    .int3{
+        display: none;
+    }
+
+}

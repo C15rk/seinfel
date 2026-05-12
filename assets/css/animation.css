@@ -1,0 +1,114 @@
+
+/*背景图放大*/
+@keyframes scale {
+    from { scale: 1; }
+    to { scale: 1.2; }
+}
+
+@keyframes scale2 {
+    from {
+        transform: translate(-50%, -50%) scale(1);
+    }
+    to {
+        transform: translate(-50%, -50%) scale(2); /* 根据需要调整放大倍数 */
+    }
+}
+
+@keyframes show {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes riToLe {
+    from {
+        width: 0;
+
+
+    }
+    to {
+        width: 100%;
+      
+        /*left: 0; !* 结束时 `right` 应为 0 *!*/
+
+    }
+}
+
+@keyframes boToTop {
+    from {
+        top: 100%;
+        z-index: 100;
+        transition: none;
+    }
+    to {
+        top: 0;
+        z-index: 100;
+    }
+}
+
+@keyframes TopTobot {
+    from {
+        top: -100%;
+        z-index: 100;
+        transition: none;
+    }
+    to {
+        top: 0;
+        z-index: 100;
+    }
+}
+
+@keyframes TopToHi {
+    from {
+        top: 0;
+    }
+    to {
+        top: -20%;
+
+    }
+}
+
+@keyframes BotToHi {
+    from {
+        top: 0;
+    }
+    to {
+        top: 20%;
+
+    }
+}
+
+@keyframes hiedBor {
+    from {
+        background: linear-gradient(to right, rgba(0, 0, 255, 0) 0%, rgba(0, 0, 255, 1) 0.3rem);
+    }
+    to {
+        background: linear-gradient(to right, rgba(0, 0, 255, 0) 0%, rgba(0, 0, 255, 1) 0rem);
+
+    }
+}
+
+/*菜单线条加载动画*/
+/*从下到上*/
+@keyframes top-bot-top {
+    from { height: 0; }
+    to { height: 100%; }
+}
+
+/*从左到右*/
+ @keyframes top-left-right {
+   from { width: 0; }
+   to { width: 100%;}
+ }
+
+/*高度*/
+@keyframes addHeight {
+    from { height: 0;
+    }
+    to { height: 100%; }
+}
+
+/*宽度*/
+@keyframes addWidth {
+    from { width: 0; }
+    to { width: 100%;}
+}

@@ -1,0 +1,222 @@
+*{
+  margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html,body{
+    width: 100%;
+
+    background: linear-gradient(#0123B5, #001880);
+}
+body{
+    overflow-y: scroll !important;
+}
+:root {
+    --backColor: #001880;
+    --backColor2: #2546D6;
+    --backColor2555D6: #2555D6;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+
+img {
+    user-drag: none; /* Safari */
+    user-select: none; /* 标准语法 */
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-drag: none; /* Chrome, Safari */
+    -webkit-user-select: none; /* Chrome, Safari */
+    -ms-user-select: none; /* IE */
+}
+
+main{
+    width: 100%;
+    min-height: 100%;
+    position: relative;
+
+}
+
+
+
+@font-face {
+    font-family: 'AlibabaPuHuiTi2';
+    src: url('/public/font/AlibabaPuHuiTi35.woff2') format('woff2'); /* 更正格式标记为 'woff2' */
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+@font-face {
+    font-family: 'AlibabaPuHuiTi2-45-Light';
+    src: url('/public/font/AlibabaPuHuiTi45.woff2') format('woff2');/* 更正格式标记为 'woff2'，并确保多个URL间用逗号分隔 */
+
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+.page-enter-active,
+.page-leave-active {
+  transition: all 0.3s;
+}
+.page-enter-from,
+.page-leave-to {
+  opacity: 0;
+
+
+}
+
+.container{
+    width: 0.3rem;
+    height: 0.3rem;
+    position: absolute;
+}
+.container>div{
+    position: absolute;
+    overflow: hidden;
+    background: white;
+}
+.container>div .xian{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #ffffff;
+
+}
+.container .top,.container .bottom{
+    width: 1px;
+    left: 50%;
+}
+.container .left,.container .right{
+    height: 1px;
+    top: 50%;
+    transform: translateY(-50%);
+
+}
+
+.containerCopy{
+    width: 0.3rem;
+    height: 0.3rem;
+    position: absolute;
+}
+.containerCopy>div{
+    position: absolute;
+    overflow: hidden;
+    background: white;
+}
+.containerCopy>div .xian{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #ffffff;
+
+}
+.containerCopy .top,.containerCopy .bottom{
+    width: 1px;
+    left: 50%;
+}
+.containerCopy .left,.containerCopy .right{
+    height: 1px;
+    top: 50%;
+    transform: translateY(-50%);
+
+}
+
+.container2{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+}
+.container2>div{
+    position: absolute;
+    overflow: hidden;
+    background: white;
+}
+.container2>div .xian{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #ffffff;
+
+}
+.container2 .left{
+    width: 1px;
+    left: 0;
+    bottom: 0.15rem;
+    height: calc(100% - 0.3rem) ;
+}
+.container2 .right{
+    width: 1px;
+    right: 0;
+    bottom: 0.15rem;
+    height: calc(100% - 0.3rem) ;
+}
+.container2 .top{
+    height: 1px;
+    top: 0;
+    left: 0.15rem;
+    width: calc(100% - 0.3rem) ;
+}
+.container2 .bottom{
+    height: 1px;
+    bottom: 0;
+    right: 0.15rem;
+    width: calc(100% - 0.3rem) ;
+}
+
+.container3{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+}
+.container3>div{
+    position: absolute;
+    overflow: hidden;
+    background: white;
+}
+.container3>div .xian{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #ffffff;
+
+}
+.container3 .left{
+    width: 1px;
+    left: 0;
+    bottom: 0;
+
+}
+.container3 .right{
+    width: 1px;
+    right: 0;
+    bottom: 0.15rem;
+
+}
+.container3 .top{
+    height: 1px;
+    top: 0;
+    left: 0;
+
+}
+.container3 .bottom{
+    height: 1px;
+    bottom: 0;
+    right: 0.15rem;
+}
+
+
