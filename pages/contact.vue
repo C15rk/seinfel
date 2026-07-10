@@ -157,12 +157,12 @@ let infos=[
     mobileTelphone:'+84 856842842',
     email:'jason.phan@zftcn.com'
   },
-  {
-    country:'美国',
-    name:'Johnny Riddle',
-    mobileTelphone:'+817-653-0121',
-    email:'johnny.riddle@zftcn.com'
-  },
+  // {
+  //   country:'美国',
+  //   name:'Johnny Riddle',
+  //   mobileTelphone:'+817-653-0121',
+  //   email:'johnny.riddle@zftcn.com'
+  // },
   {
     country:'中国',
     name:'姚英',
