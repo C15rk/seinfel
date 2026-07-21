@@ -15,12 +15,12 @@ let dings = ref([
     // T2:'+817-653-0121',
     // E2:'johnny.riddle@zftcn.com'
   },
-  {
-    name: "美国",
-    N: " Andrew Sharp",
-    T: "+44 7968873104",
-    E: "andrew.sharp@zftuk.com",
-  },
+  // {
+  //   name: "美国",
+  //   N: " Andrew Sharp",
+  //   T: "+44 7968873104",
+  //   E: "andrew.sharp@zftuk.com",
+  // },
   {
     name: "法国",
     N: "Philippe Baumann",
@@ -153,12 +153,12 @@ let infos = [
     mobileTelphone: "+84 856842842",
     email: "jason.phan@zftcn.com",
   },
-  // {
-  //   country:'美国',
-  //   name:'Johnny Riddle',
-  //   mobileTelphone:'+817-653-0121',
-  //   email:'johnny.riddle@zftcn.com'
-  // },
+  {
+    country: "美国",
+    name: " Andrew Sharp",
+    mobileTelphone: "+44 7968873104",
+    email: "andrew.sharp@zftuk.com",
+  },
   {
     country: "中国",
     name: "姚英",
